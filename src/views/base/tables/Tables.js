@@ -116,7 +116,7 @@ const Tables = () => {
                     <CTableDataCell>Cell</CTableDataCell>
                     <CTableDataCell>Cell</CTableDataCell>
                   </CTableRow>
-                  <CTableRow color="light">
+                  <CTableRow color="dark">
                     <CTableHeaderCell scope="row">Light</CTableHeaderCell>
                     <CTableDataCell>Cell</CTableDataCell>
                     <CTableDataCell>Cell</CTableDataCell>
